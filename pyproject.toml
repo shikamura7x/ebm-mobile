@@ -1,0 +1,11 @@
+[project]
+name = "meter-mobile-app"
+version = "0.1.0"
+dependencies = [
+    "flet",
+    "requests"
+]
+
+[tool.flet]
+org = "com.meterapp"
+product = "MeterApp"
